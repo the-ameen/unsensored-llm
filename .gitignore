@@ -16,3 +16,7 @@ Shared/bin/
 Shared/*.zip
 Shared/logs/
 
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+.DS_Store
